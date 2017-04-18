@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=startingRoom
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCurrentRoom()
+comment3.params=
+comment3.target=java.util.ArrayList\ getInventory()
+comment4.params=item
+comment4.target=void\ addInventory(Item)
+comment5.params=currentRoom
+comment5.target=void\ setCurrentRoom(java.lang.String)
+comment6.params=
+comment6.target=void\ printInventory()
+numComments=7

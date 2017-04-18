@@ -1,0 +1,6 @@
+.25f,.05f,The Great Hall,The room is very big. There are many candles hanging above rows of tables.,Changing Staircases,Stairs to The Boat House,none,none
+.25f,0f,Stairs to The Boat House,The stairs are very long. They head down to a boat house.,The Great Hall,The Boat House,none,none
+.75f,.75f,The Boat House,The building is tall. It contains equipment for launching boats.,Stairs to The Boat House,none,none,none
+.65f,.25f,Changing Staircases,The stairs lead to different levels of the castle.,Dorms,The Great Hall,Courtyard,none
+.5f,.9f,Dorms,There are dorms for the different houses.,none,Changing Staircases,none,none
+.75f,.75f,Courtyard,The yard is a large space surrounded on all sides by the castle,none,none,none,Changing Staircases
